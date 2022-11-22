@@ -1,0 +1,27 @@
+body {
+   
+    display: flex;
+    justify-content:center;
+    font-family: 'Lora', serif;
+    background-color:black;
+    flex-direction:column;
+    padding:100px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+.main{
+    color:white;
+    padding:70px;
+    border:2px solid white;
+    text-align:center;
+    background-image:url("galaxyvbetter.jpg")
+    
+}
+h1{
+    font-size:3em;
+
+}
