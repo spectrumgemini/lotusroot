@@ -8,9 +8,9 @@ body {
     padding:100px;
 }
 
-footer {
-    display: flex;
-    justify-content: center;
+footer{
+    font-size:small;
+    color:white;
 }
 
 .main{

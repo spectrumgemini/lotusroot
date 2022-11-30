@@ -1,0 +1,34 @@
+.desc{
+    padding-left:4em;
+    padding-right:1em;
+    font-size:large;
+    border:1px solid white;
+
+}
+body{
+    font-family: 'Barlow', sans-serif;
+    background-color:black;
+    color:white;
+}
+h1{
+    border:2px solid white;
+
+    width:fit-content;
+    padding-left:4em;
+    padding-right:4em;
+    background:#013220;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+table{
+    border:2px solid black;
+    padding:2em;
+
+    background-color:#013220;
+}
+a{
+    color:#cede76;
+}
+footer{
+    font-size:small
+}
